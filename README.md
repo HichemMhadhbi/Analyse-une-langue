@@ -4,7 +4,7 @@
 Au cours des siècles une langue évolue, et non seulement les mots apparaissent ou disparaissent, mais certaines lettres deviennent plus utilisées ou au contraire moins utilisées.
 Afin de pouvoir rapidement analyser de nombreux textes, on souhaite mettre au point un programme calculant combien de fois une lettre donnée est présente au sein d’un texte.
 
-###CONSTRAINTS
+### CONSTRAINTS
 Chaque ligne de texte contient au plus 1000 caractères.
 
 #### INPUT
