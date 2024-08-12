@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1723455515 source:c:\users\hichem\desktop\exercices langage c\franceioi niv2\3.6. analyse d’une langue\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
